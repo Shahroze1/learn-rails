@@ -1,0 +1,1 @@
+LearnRails::Application.config.secret_key_base = '5cf7cec385bc7fd01590e350d991a26468a7b471fcd50652f698b3b204a64007f2f08c949b701c5574864b590a57ec2d3484dc2aa38a23c2d25752e74c4b15ea'
